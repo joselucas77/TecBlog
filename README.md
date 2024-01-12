@@ -4,7 +4,9 @@
 
 Este é um blog sobre tecnologias.
 
-<a href="https://joselucas77.github.io/projeto-cordel/">🔗 Acesse aqui o projeto</a>
+<img src="imagens/gif.gif" alt="visualização no pc">
+
+<a href="https://joselucas77.github.io/TecBlog/">🔗 Acesse aqui o projeto</a>
 
 ## Tecnologias ultilizadas e informações adicionais
 
